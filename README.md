@@ -2,7 +2,9 @@
 
  This repository is for Assignment 2, please refer to index.html to see the list of issues observed for this assignment. 
 
-The website under scrutiny is my <link rel="stylesheet" type="text/css" href="https://michaelhctam.com">Portfolio Website>
+The website under scrutiny is my Portfolio Website: 
+
+https://michaelhctam.com
 
 <b>Introduction</b>
 
